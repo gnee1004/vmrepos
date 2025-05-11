@@ -1,6 +1,0 @@
-﻿  AEScode.c
-C:\Users\geunh\source\repos\encrypt\encrypt\AEScode.c(62,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-encrypt_to_file.obj : error LNK2005: encrypt이(가) AEScode.obj에 이미 정의되어 있습니다.
-encrypt_to_file.obj : error LNK2005: handleErrors이(가) AEScode.obj에 이미 정의되어 있습니다.
-encrypt_to_file.obj : error LNK2005: main이(가) AEScode.obj에 이미 정의되어 있습니다.
-C:\Users\geunh\source\repos\encrypt\x64\Debug\encrypt.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
